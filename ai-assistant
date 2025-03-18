@@ -1,0 +1,5 @@
+ai-assistant/
+├── app.py (main code)
+├── requirements.txt
+├── Procfile
+└── .gitignore
